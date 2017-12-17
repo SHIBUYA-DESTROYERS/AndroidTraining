@@ -12,4 +12,10 @@
     <string name="name_hint">Input your name here.</string>
     <string name="confirm_button">Show Toast</string>
     <string name="toast_message">%1$s は、%2$d 回ボタンを押しました</string>
+    <string name="hoge">hoge</string>
+    <string name="fuga">fuga</string>
+    <string name="piyo">piyo</string>
+    <string name="puni">puni</string>
+    <string name="cat">cat</string>
+    <string name="engineer">エンジニアは %1$s や %2$s を多用し， %3$s と鳴きがちである</string>
 </resources>

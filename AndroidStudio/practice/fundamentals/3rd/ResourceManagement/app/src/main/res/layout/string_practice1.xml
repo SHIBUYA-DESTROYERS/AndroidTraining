@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+              xmlns:tools="http://schemas.android.com/tools" android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
     <!-- TODO: つくった String リソースを利用した TextView を配置していく -->
@@ -8,4 +8,27 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/hello_world" />
+    <TextView
+        android:text="@string/cat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:id="@+id/textView"/>
+    <TextView
+        android:text="@string/hoge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:id="@+id/textView2"/>
+    <TextView
+        android:text="@string/piyo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:id="@+id/textView3"/>
+    <TextView
+        android:text="@string/fuga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:id="@+id/textView4"/>
+    <TextView
+        android:text="@string/puni"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:id="@+id/textView5"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:id="@+id/textView6"/>
 </LinearLayout>

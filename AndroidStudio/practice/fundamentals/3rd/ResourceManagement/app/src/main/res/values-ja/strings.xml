@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ResourceManagementPractice</string>
+    <string name="hoge">ほげ</string>
+    <string name="fuga">ふが</string>
+    <string name="piyo">ぴよ</string>
+    <string name="puni">ぷに</string>
+    <string name="cat">にゃーん</string>
+</resources>
